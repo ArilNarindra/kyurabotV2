@@ -15,9 +15,9 @@ gc1 = 'bit.ly/officialgrupkanaobot'
 gc2 = ''
 gc3 = ''
 global.linkGC = ['bit.ly/officialgrupkyurabot'] // ganti jadi group lu
-global.owner = ['6281998903280'] // Put your number here //owner eval
-global.kontak = ['6281998903280'] //Ketika ada yang ngetik #owner
-global.mods = ['6281998903280'] // Want some help?
+global.owner = ['6282124720691'] // Put your number here //owner eval
+global.kontak = ['6282124720691'] //Ketika ada yang ngetik #owner
+global.mods = ['6282124720691'] // Want some help?
 global.prems = ['6281998903280'] // Premium user has unlimited limit
 global.APIs = { // API Prefix
   // name: 'https://website'
@@ -48,20 +48,20 @@ xteamkey = '057f32b5931c3bce'
 namaig = 'bit.ly/instagramkyura'
 namagithub = 'bit.ly/githubkyura'
 kasihcaption = `Nihh...`
-namakontak1 = 'Kyura'
+namakontak1 = 'ArilNarindra'
 namakontak2 = 'Ardhi'
 
 //kasihcaption = `Nih Kak`
 
 // Sticker WM
 global.packname = 'From' // ganti aja
-global.author = 'KyuraBOT' // ganti aja
+global.author = 'ArilNarindra' // ganti aja
 
 //yyy
 bc = 'KanaoBOT' //RFK Broadcast
-footer = '\n©Kyura'
-namabot = 'KanaoBOT'
-namalu = 'Kyura'
+footer = '\n©Aril'
+namabot = 'ShiraoriBOT'
+namalu = 'ArilNarindra'
 
 
 // 
